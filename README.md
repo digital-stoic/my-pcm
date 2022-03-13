@@ -7,4 +7,4 @@ For those interested in the Art of Journaling: [How To Start Journaling, Benefit
 ## Resources
 
 * [Obsidian](https://obsidian.md/)
-* [Obsidian help](https://help.obsidian.md/How+to/Internal+link
+* [Obsidian help](https://help.obsidian.md/How+to/Internal+link)
