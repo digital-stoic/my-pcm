@@ -25,10 +25,11 @@ Read a Work of Fiction
 Read a Banned Book
 ### Reading lists
 See [1](https://us1.campaign-archive.com/?u=dcd3642d86121fbcaa9914228&id=8d1a43b0da&e=7d846d9a5f)
-### Memorize
+[Recommended by Regeneration International](https://regenerationinternational.org/resources/)
+### [[Memorize]]
 OKR? Habit?
-[[Llitany Against Fear]]
-[[Permaculture Design Principles]]
+[[Litany against fear]]
+[[Permaculture design principles]]
 [[Code d'Honneur du Légionnaire]]
 Favourite quotes
 Re read black swan and anti fragile
@@ -88,6 +89,9 @@ Bonus Challenge 3: Pick a book of wisdom and read one page per day
   Buy a book written by an author who writes from that religion’s perspective
 - When you’re using a computer, what’s your favorite website to visit?
   Read a book about that website or the company behind it. Alternatively, find a book about the technology that makes that website possible.
-
-
-
+# All Books
+```dataviewjs
+dv.table(["File", "Author", "Status", "Tags", "Description"], dv.pages("#book")
+	.map(p => [p.file.link, p.author, p.status, p.file.tags, p.description])
+)
+```

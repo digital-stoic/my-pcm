@@ -1,0 +1,4 @@
+#quote #flow
+[author::Tom Morgan?]
+[description::Most situations in life have a tendency...  You can choose to go against the flow... but your results tend to be better when you find a way to work with the gradient of the situation...]
+When rain falls, it flows downhill. If desired, you can collect the rain in a bucket and carry it uphill, but the natural tendency of water is to flow toward the lowest point. Most situations in life have a tendency—a direction in which things want to flow. You can choose to go against the flow (just as you can choose to carry water uphill), but your results tend to be better when you find a way to work with the gradient of the situation. Position yourself to benefit from the external forces at hand and you will get more from the same unit of effort. Energy is conserved and results are multiplied.

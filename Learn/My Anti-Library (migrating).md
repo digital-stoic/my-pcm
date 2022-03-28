@@ -73,11 +73,6 @@ Books to Base Your Life On
 - How To Live
 - The Daily Laws 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature
 
-### Habits Building
-
-- Daily Rituals How Artists Work
-- Daily Rituals Women at Work 
-
 ## What I Don't Control
 
 ### Science
