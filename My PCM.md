@@ -14,7 +14,7 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[Quotes]]
 # Live
 [[Mind-Body]]
-[[Personal Development]]
+[[Personal Development (migrating)]]
 [[Resilience]]
 	[[Bioclimatic Architecture]]
 	[[Permaculture]]
