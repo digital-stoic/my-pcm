@@ -12,6 +12,7 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[My Anti-Library]]
 [[Memorize]]
 [[Quotes]]
+[[Artists]]
 # Live
 [[Mind-Body]]
 [[Personal Development (migrating)]]
