@@ -59,44 +59,4 @@ Outils manuels vs mécaniques
 # Module 1 - Principes d'un écosystème « cultivé »
 ## Deck
 	![[FV001_Support cours module 01.pdf]]
-## Régénération, aggradation, résilience et stabilité
-## Niches et diversité
-[Exemples de niches fun](https://www.pinterest.com/lepapyrus/jardin-pour-notre-amie-la-faune/)
-Tas de pierre (diversité, desherbe, accumule chaleur)
-Tas de bois (héberge hérissons, crapeaux, champignons)
-Haie (culture, auxiliaires)
-Mare (micro-cilmat accumule chaleur, crapeaux, vase fertilisant, plantes aquatiques comestibles)
-Hotel à insectes
-Nids ou abreuvoirs (oiseaux pour dissémination graines)
-Ruche (récolte, pollinisation)
-## Succession & formes naturelles
-Climax = stade matûre écosystème (forêt en France) vers lequel il tend naturellement
-"Mauvaises herbes" = plantes pionnières qui reviennent en permanence après un "reset"
-Spirales, fractales, optimium énergetiques
-## Effets de bordure et microclimats
-# Module 2 - Se fixer des objectifs
-## Deck
-![[FV001_Support cours module 02.pdf]]
-## Méthodologie
-SMART: Spécifique, Mesurable, Accepté, Réaliste, Temporisé
-Commencer petit
-# Module 3 - L'observation et la lecture de paysage
-## Deck
-![[FV001_Support cours module 03.pdf]]
-## TODO
-# Module 4 - Les bordures et les facteurs limitants
-## Deck
-![[FV001_Support cours module 04.pdf]]
-## TODO
-# Module 5 - Les ressources disponibles
-## Deck
-![[FV001_Support cours module 05.pdf]]
-## TODO
-# Module 6 - L'analyse
-## Deck
-![[FV001_Support cours module 06.pdf]]
-## TODO
-# Module 7 - Le design
-## Deck
-![[FV001_Support cours module 07.pdf]]
-## TODO
+## Régénrration, aggradation, résilience et stabilité
