@@ -83,7 +83,15 @@ Commencer petit
 # Module 3 - L'observation et la lecture de paysage
 ## Deck
 ![[FV001_Support cours module 03.pdf]]
-## TODO
+## Technique : cartographier votre lieu
+### Macro-observations
+- [Geoportail](https://www.geoportail.gouv.fr/)
+	- IGN map, Natura 2000 zones
+- [Infoterre](https://www.formations-permaculture.fr/formation/formation/512/?idmodule=2736&idpage=9672)
+	- Geology
+- [Météo France](https://www.formations-permaculture.fr/formation/formation/512/?idmodule=2736&idpage=9672)
+
+
 # Module 4 - Les bordures et les facteurs limitants
 ## Deck
 ![[FV001_Support cours module 04.pdf]]
