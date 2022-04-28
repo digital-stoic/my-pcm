@@ -85,12 +85,93 @@ Commencer petit
 ![[FV001_Support cours module 03.pdf]]
 ## Technique : cartographier votre lieu
 ### Macro-observations
+#### France
 - [Geoportail](https://www.geoportail.gouv.fr/)
 	- IGN map, Natura 2000 zones
 - [Infoterre](https://www.formations-permaculture.fr/formation/formation/512/?idmodule=2736&idpage=9672)
 	- Geology
 - [Météo France](https://www.formations-permaculture.fr/formation/formation/512/?idmodule=2736&idpage=9672)
-
+	- Températures record (nouveaux extrêmes climatiques)
+- [Infoclimat](https://www.infoclimat.fr/)
+- [Climat des villes de France](https://www.linternaute.com/voyage/climat)
+- [cadastre.gouv.fr](cadastre.gouv.fr)
+#### International
+- [Weather](https://weather.com/?Goto=Redirected)
+- [MeteoBlue](https://www.meteoblue.com/en/weather/week/basel_switzerland_2661604)
+- [Windfinder](https://www.windfinder.com/?utm_source=fr.windfinder.com&utm_medium=web&utm_campaign=redirect#3/49.5042/9.5421)
+- Google Maps
+## L'observation macro/micro
+L'observation au ressenti avant d'analyser
+L'observation analytique:
+- Amont, aval
+- Resources
+- Toppographie
+- Végétations environnantes, cours d'eau et retenues
+- Composition du sous-sol
+- Zones soumises à des protections écologiques
+- Zones à risque
+L'observation macro générale:
+- Climat
+- Pluviométrie
+- Ensoleillement
+- Jours de gel, vent
+## Le vent, l'eau et le sol
+### Vent
+Négatif:
+- Frein au dévelopment de certains végétaux
+- Conduit à des perte énergétiques: évaporation, sécheresse, érosion
+- Joue sur bien-être et production animaux
+Positif:
+- Energie, brassage de l'eau en surface, freine le gel
+### Eau
+Parcours de l'eau: où elle rentre, où elle sort
+### Sol
+Conserver un sol "vivant" plein de nutriments variés
+3M: Micro-organismes, Minéraux, Matière organique
+Structure: sableuse, argileuse, grumeleuse
+## Technique: tester votre sol
+## Les végétaux
+Référence de bio-indicateurs:
+- [[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales ; guide de diagnostics des sols ; vol 1]]
+- [[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales ; guide de diagnostics des sols ; vol 2]]
+- [[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales ; guide de diagnostics des sols ; vol 3]]
+- [[Conditions de levée de dormance des principales plantes bio-indicatrices]]
+## Topographie, accès, structures, bordures, voisinage, communauté
+[Transition France](https://www.entransition.fr/)
+Conduire eau depuis zones dures (captage) vers zones tendres (culture donc infiltration)
+Eau s'écoule à 90 degrés des courbes de niveau
+Structures:
+- Parties au vent ou sous le vent
+- Parties pouvant recueillir les eaux de pluie
+- Les parties ensoleillés ou ombragées
+- Leurs matériaux
+Bordures physiques
+Différents milieux écologiques
+Voisinage proche
+### Cartographier votre site
+- Parcours de l'eau et zones humides
+- Végétation
+- Vent et ses circulations
+- Ensoleillement et ses ombres
+- Topographie
+- Accès existants
+- Structures existantes
+- Bordures, voisinage et communauté
+## Technique : le niveau égyptien
+## Exemples de structure
+Façade sud: capte soleil et abritée du vent
+Serre bioclimatique
+Percola: plantes grimpantes
+Façade est: ensolleillée matin, pour micro-climat tempéré
+Façade ouest: très chaud en été (surchauffes estivales avec plantes grimpantes)
+Façade nord: végétaux qui ne craignent pas ombre/froid... ou plantes grimpantes
+Cabanon: petite serre pour semis
+Mur foncé: capte chaleur, couplé avec pièces d'eau
+Mur clair: réflète lumière
+Mur en matériaux naturels
+Clôture: lianes, plantes grimpantes, oiseaux 
+Brise-vent
+Toiture: capter eau
 
 # Module 4 - Les bordures et les facteurs limitants
 ## Deck
