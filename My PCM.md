@@ -17,9 +17,13 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[Mind-Body]]
 [[Personal Development (migrating)]]
 [[Resilience]]
+	[[Resilience Principle 1 Water]]
+	[[Resilience Principle 4 Energy]]
 	[[Bioclimatic Architecture]]
 	[[Permaculture]]
 [[Singapore]]
 [[Food]]
 # Build
 [[Organization & Management]]
+[[Code Snippets]]
+

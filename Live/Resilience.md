@@ -24,7 +24,7 @@ dv.table(["File", "Author", "Status", "Tags", "Description"], dv.pages("#book an
 ```
 ## Dry Toilets
 [Regulation](http://www.assainissement-non-collectif.developpement-durable.gouv.fr/)
-# Principle 4: Energy
+# [[Resilience Principle 4 Energy|Principle 4: Energy]]
 ## Products
 [Tenergy Power](https://power.tenergy.com/)
 [Mobile Solar](https://www.mobilesolarpower.net/)
