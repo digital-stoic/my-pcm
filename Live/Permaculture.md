@@ -4,9 +4,14 @@
 [Youtube](https://www.youtube.com/c/PermacultureDesign/videos)
 [[Cours - Invitez la permaculture dans votre jardin]]
 [[Cours - Les haies de permaculture]]
+## L'université des alvéoles
+[[Cours - Concevoir un jardin multi-étagé]]
 # Tools
 [Outils autonomie](https://www.outils-autonomie.fr/): tools, training
 [Grelinette](https://www.permaculturedesign.fr/grelinette-outil-permaculture-indispensable-jardinage-sol-vivant/)
+From [Permaculture pour tous](https://permaculturepourtous.com/):
+- [[22 Perma-elements.pdf]]
+- [[3 Tableaux des liaisons.pdf]]
 # Organizations
 ## France
 [Triticum](https://www.triticum.fr/) (Micka's friend)
