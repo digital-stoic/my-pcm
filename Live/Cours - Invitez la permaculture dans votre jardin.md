@@ -1,6 +1,5 @@
 # Module 0 - Premiers pas en permaculture
-## Deck
-	![[Le guide du permaculteur debutant-V2.pdf]]
+[[Le guide du permaculteur debutant-V2.pdf]]
 ## Les éthiques de permaculture
 - Etre attentif à l'humain (observer avant agir): loger, nourrir, soigner, sociabiliser
 - Etre attentif à la terre: visible et invisible, place de la nature sauvage
@@ -57,8 +56,7 @@ Objectifs =>Observation => Design => Installation => Résultat => ...
 Pas de reproductions techniques sans réflexion et analyse!
 Outils manuels vs mécaniques
 # Module 1 - Principes d'un écosystème « cultivé »
-## Deck
-	![[FV001_Support cours module 01.pdf]]
+[[FV001_Support cours module 01.pdf]]
 ## Régénération, aggradation, résilience et stabilité
 ## Niches et diversité
 [Exemples de niches fun](https://www.pinterest.com/lepapyrus/jardin-pour-notre-amie-la-faune/)
@@ -75,14 +73,12 @@ Climax = stade matûre écosystème (forêt en France) vers lequel il tend natur
 Spirales, fractales, optimium énergetiques
 ## Effets de bordure et microclimats
 # Module 2 - Se fixer des objectifs
-## Deck
-![[FV001_Support cours module 02.pdf]]
+[[FV001_Support cours module 02.pdf]]
 ## Méthodologie
 SMART: Spécifique, Mesurable, Accepté, Réaliste, Temporisé
 Commencer petit
 # Module 3 - L'observation et la lecture de paysage
-## Deck
-![[FV001_Support cours module 03.pdf]]
+[[FV001_Support cours module 03.pdf]]
 ## Technique : cartographier votre lieu
 ### Macro-observations
 #### France
@@ -174,18 +170,153 @@ Brise-vent
 Toiture: capter eau
 
 # Module 4 - Les bordures et les facteurs limitants
-## Deck
-![[FV001_Support cours module 04.pdf]]
-## TODO
+[[FV001_Support cours module 04.pdf]]
+## Les limites physiques
+- Limites physiques
+- Bordures
+- Facteurs limitants
+- Risques: innondation, incendies, tempêtes, pluies battantes, etc
+- Limites de nos corps: blessures, handicaps
+## Les limites invisibles
+- Réglementation, PLU, restrictions d'eau
+- Niveau de formation
+- Budget
+- Temps. Fréquence visites >> durée
 # Module 5 - Les ressources disponibles
-## Deck
-![[FV001_Support cours module 05.pdf]]
-## TODO
+[[FV001_Support cours module 05.pdf]]
+## Les ressources physiques
+Ressources et limites se rejoignent
+## Les ressources financières et matérielles 
+## Les ressources humaines
+Voisins, systèmes d'échanges locaux, famille, etc
 # Module 6 - L'analyse
-## Deck
-![[FV001_Support cours module 06.pdf]]
-## TODO
+[[FV001_Support cours module 06.pdf]]
+## Analyse à partir de vos objectifs
+Objectifs SMART
+Fonctions clés
+Eléments pour établir ces fonctions
+## Analyse des caractéristiques d'un élément
+Lexique de la permaculture (PDF)
+	![[Le lexique de la Permaculture.pdf]]
+Créatoin de synergies = guildes
+Besoins => Elément => Produits (caractéristiques intrinsèques et comportements)
+From [Permaculture pour tous](https://permaculturepourtous.com/):
+- [[22 Perma-elements.pdf]]
+- [[3 Tableaux des liaisons.pdf]]
+## Analyse à partir d'un facteur limitant
+Identifiez le facteur limitant: zone d'entrée et impact
+Traitez le facteur limitant à l'endroit où celui-ci entre dans le système
+## Analyse en suivant un flux
+Flux d'énergie qui traverse le site = ressource gratuite
+Se focaliser sur un seul flux:
+- Révéler tous les potentiels
+- Le valoriser
+- L'optimiser
+- Le conserver
+Ex.: Eau, vent, soleil, nutriments
+## Analyse par superposition des cartes
+Solutions créatives / inattendues
+## Analyse par options/décisions
+## Analyse par l'assemblage aléatoire
 # Module 7 - Le design
-## Deck
-![[FV001_Support cours module 07.pdf]]
-## TODO
+[[FV001_Support cours module 07.pdf]]
+## Convention dans le design
+Ressources de design
+- [[PCD_Planche nord.png]]
+- [[PCD_Ressources module 07.pdf]]
+## Placement avec les zones et secteurs
+## Placement autour d'un élément existant
+## Placement selon l'altitude et l'aspect général
+## Placement selon les microclimats et types de sol
+## Placement selon la zone d'exclusion
+## Designer dans le temps et dans l'espace
+## Détails et visualisation du futur
+## Choix des plantes et palette végétale
+TODO: Check resources on [webpage](https://www.formations-permaculture.fr/formation/formation/512/?idmodule=2740&idpage=10356)
+Link Dump
+	**LIENS**
+	**Pour la forêt comestible :**
+	Martin Crawford
+	Son livre :  [La forêt jardin](https://www.permaculturedesign.fr/livre-permaculture-foret-jardin-creer-foret-comestible-en-permaculture-pour-retrouver-autonomie-abondance-martin-crawford/)
+	Sa formation en ligne sous-titrée en Français : [Créer et gérer une Forêt jardin avec Martin Crawford](https://www.formations-permaculture.fr/creer-gerer-foret-jardin-martin-crawford-permaculture-design-formation-video)
+	Franck Nathié
+	[http://www.foretscomestibles.com](http://www.foretscomestibles.com/)
+	Patrick Whitefield
+	[Créer un jardin-forêt — une forêt comestible de fruits, légumes, aromatiques et champignons au jardin](https://www.amazon.fr/gp/product/2953734406/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2953734406&linkCode=as2&tag=permacdesign-21&linkId=Q6KXSDFUFF2WTPRG)
+	**Pour les plantes sauvages comestibles et les plantes bio-indicatrices :**
+	S. G. Fleischhauer, J. Guthmann, R. Spiegelberger
+	[Plantes sauvages comestibles](https://amzn.to/2SB1Ecl)
+	François Couplan
+	[Le régal végétal — plantes sauvages comestibles](http://www.decitre.fr/livres/le-regal-vegetal-plantes-sauvages-comestibles-9782869853195.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Gérard Ducerf
+	[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales : Guide de diagnostic des sols Volume 1](https://www.amazon.fr/gp/product/2951925875/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2951925875&linkCode=as2&tag=permacdesign-21&linkId=AJZPVNU7YIXHD43F)
+	[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales : Guide de diagnostic des sols Volume 2](https://www.amazon.fr/gp/product/2951925867/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2951925867&linkCode=as2&tag=permacdesign-21&linkId=SP7PEG25NZ5THO4N)
+	[L’encyclopédie des plantes bio-indicatrices alimentaires et médicinales : Guide de diagnostic des sols Volume 3](https://www.amazon.fr/gp/product/1091115001/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=1091115001&linkCode=as2&tag=permacdesign-21&linkId=I46QWUIIALCC4VHR)
+	**Pour le jardin potager :**
+	Notre formation dédiée pour commencer un potager en permaculture
+	[Le potager Perma+](https://www.formations-permaculture.fr/potager-permaculture-jardin-perma-plus-design-formation-video/)
+	Gertrud Franck
+	[Un jardin sain grâce aux cultures associées](https://www.decitre.fr/livres/un-jardin-sain-grace-aux-cultures-associees-9782953734447.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	[Les bonnes associations au potager](https://amzn.to/2rPLRKm)
+	Richard Walner
+	[Manuel de culture sur buttes](http://www.decitre.fr/livres/manuel-de-culture-sur-butte-9782815303316.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Jean-Marie Lespinasse
+	[Le jardin naturel](http://www.decitre.fr/livres/le-jardin-naturel-9782812604768.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Vincent Albouy
+	[Jardinez avec les insectes](https://www.decitre.fr/livres/jardinez-avec-les-insectes-9782913288966.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Bernard Bertrand, Jean-paul Collaert, Eric Petiot
+	[Purin d'orties & Cie](https://amzn.to/2ArbFU0)
+	Christian Boué
+	[Produire ses graines bio](https://www.amazon.fr/gp/product/2360980564/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2360980564&linkCode=as2&tag=permacdesign-21)
+	**Pour comprendre votre sol :**
+	Claude et Lydia Bourguignon
+	[Le sol, la terre et les champs — Pour retrouver une agriculture saine](http://www.decitre.fr/livres/le-sol-la-terre-et-les-champs-9782869851887.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Bernard Bertrand, Victor Renaud
+	[Le génie du sol vivant](https://amzn.to/2F1WUFu)
+	Eléa Asselineau & Gilles Domenech
+	[Les Bois Raméaux Fragmentés — De l’arbre au sol](http://www.decitre.fr/livres/les-bois-rameaux-fragmentes-9782841568994.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	**Sur les légumes vivaces :**
+	Xavier Mathias
+	[Légumes vivaces pour un potager perpétuel](http://www.decitre.fr/livres/legumes-vivaces-pour-un-potager-perpetuel-9782815302104.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	Aymeric Lazarin
+	[Mon potager de vivaces](https://www.decitre.fr/livres/mon-potager-de-vivaces-9782360981878.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	**Pépinières et grainetiers en ligne**
+	[Végétal 85](https://www.pepiniere-vegetal85.fr/#ae2)
+	[La bonne graine](https://www.labonnegraine.com/?aff=2)
+	[Le jardin du pic vert](https://www.jardindupicvert.com)
+	[Ribanjou](https://www.ribanjou.com/)
+	[Le Chatel des Vivaces](http://www.le-chatel-des-vivaces.com/) 
+	[Arom’antique](https://www.plantearomatique.com/) 
+	[Promesse de fleur](https://www.promessedefleurs.com)  
+	[La ferme de Sainte Marthe](https://www.fermedesaintemarthe.com)
+	**Sur la basse cour :**
+	Notre formation dédiée 
+	[Les poules et le poulailler en permaculture](https://bit.ly/31Fop2q)
+	Jérôme Chaib & Frédéric Claveau
+	[Votre basse cour écologique](http://www.decitre.fr/livres/votre-basse-cour-ecologique-9782360980048.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	**Pour les projets de microfermes :**
+	Lauriane et Charles Durant
+	[La microferme agroécologique](https://amzn.to/2EI2mxY)
+	Perrine et Charles Hervé-Gruyer
+	[Vivre avec la Terre](https://www.permaculturedesign.fr/livre-permaculture-bec-hellouin-vivre-avec-la-terre-perrine-et-charles-herve-gruyer/)
+	Sepp Holzer
+	[Désert ou Paradis](https://www.amazon.fr/gp/product/2953734457/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2953734457&linkCode=as2&tag=permacdesign-21)
+	Ben Falk
+	[Une ferme résiliente et productive pour vivre à la campagne](https://amzn.to/2rbVaDd)
+	**Pour aller plus loin dans la philosophie de la permaculture :**
+	Masanobu Fukuoka
+	[La révolution d’un seul brin de paille — Une introduction à l’agriculture sauvage](http://www.decitre.fr/livres/la-revolution-d-un-seul-brin-de-paille-9782844456243.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	[L'agriculture naturelle](https://www.decitre.fr/livres/l-agriculture-naturelle-9782844455505.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=permaculture#ae94)
+	David Holmgren
+	[Permaculture, Principes et pistes d’action pour un mode de vie soutenable](https://www.amazon.fr/gp/product/2917770635/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2917770635&linkCode=as2&tag=permacdesign-21&linkId=5FYV4FL7IDOS2XDK)
+## La méthode BOLRADIME
+Buts
+Observations
+Limites
+Ressources
+Analyse
+Design
+Installation
+Maintenance
+Evaluation
+	
