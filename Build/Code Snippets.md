@@ -1,3 +1,18 @@
+# K3S admin
+```bash
+# Connect to Kubernetes dashboard
+ssh -L 8001:127.0.0.1:8001 -A pi@192.168.XX.Y
+# Restart NGINX ingress
+kubectl -n kube-system rollout restart deploy/nginx-ingress-controller
+```
+# Fix Raspbian Time
+Makes DNS resolution fail
+```bash
+timedatectl
+timedatectl set-ntp 0
+timedatectl set-time '2022-05-06 20:43:30'
+timedatectl set-ntp 1
+```
 # Launch Dev HTTP server
 ```python
 # Python 3
