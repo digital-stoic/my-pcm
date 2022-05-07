@@ -1,5 +1,6 @@
-#article #journal #innovation #author/steve-blank #semiconductor
+#article #journal #innovation #semiconductor
 [date:2022-01-01]
+[author::[[Steve Blank]]]
 [description::Despite all this talk about chips and semiconductors, few understand how the industry is structured]
 https://steveblank.com/2022/01/25/the-semiconductor-ecosystem/
 
