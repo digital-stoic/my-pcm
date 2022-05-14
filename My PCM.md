@@ -7,6 +7,7 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[Entrepreneurship]]
 [[JTB, Lean & Customer Discovery]]
 [[Lean Stuff]]
+[[Lean Branding]]
 [[Innovation Ideas]]
 # Learn
 [[My Anti-Library]]
