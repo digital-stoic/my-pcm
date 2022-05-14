@@ -14,31 +14,24 @@ Links:
 - [Tools](http://http://leanbranding.com/tools)
 - [Resources](http://http://leanbranding.com/resources)
 # Brand Storyboard
-  Once upon a time:
-  In this scene, you will describe the buyer personas introduced earlier in this chapter using images or text. Who is the main character in your brand story?
-  
-  He/she always: 
-  Define some of the main tasks that your customer is regularly involved with. What does she do every day? What are her main responsibilities in life and work, as related to the product or service that you offer?
-  
-  But always had a problem
-  State the main issue that your customer faces when trying to complete her tasks. What is the unsatisfied need or aspiration in this story?
-  
-  He/she tried to solve it:
-  If the previous problem is real, your customer is probably already solving it. What are some alternate solutions to the issue at hand? How is your customer managing to partially satisfy this aspiration?
-  
-  But he/she wished that
-  Outline the flaws in the solutions your customer is currently using. Despite purchasing these other products or services, your customer is still unsatisfied. What are existing solutions lacking?
-  
-  Until one day
-  Describe how your customer will most probably learn about your brand. What happened on the day she first heard about you?
-  
-  Unlike his/her solution, this
-  List some of the aspects related to your product experience that set you apart from competitors. How does your offer differ from your customer’s current solution?
-  
-  His/her wish came true, to:
-  Clearly define the aspiration that your brand fulfills. What is your customer’s “wish come true”?
-  
-  Now that you have filled out each of these scenes, consider some of the implications of each of your answers. Why do they matter? How can we use them? Why are they important for brand building and conversion?
+## Once upon a time:
+In this scene, you will describe the buyer personas introduced earlier in this chapter using images or text. Who is the main character in your brand story?
+## He/she always: 
+Define some of the main tasks that your customer is regularly involved with. What does she do every day? What are her main responsibilities in life and work, as related to the product or service that you offer?
+## But always had a problem
+State the main issue that your customer faces when trying to complete her tasks. What is the unsatisfied need or aspiration in this story?
+## He/she tried to solve it:
+If the previous problem is real, your customer is probably already solving it. What are some alternate solutions to the issue at hand? How is your customer managing to partially satisfy this aspiration?
+## But he/she wished that
+Outline the flaws in the solutions your customer is currently using. Despite purchasing these other products or services, your customer is still unsatisfied. What are existing solutions lacking?
+## Until one day
+Describe how your customer will most probably learn about your brand. What happened on the day she first heard about you?
+## Unlike his/her solution, this
+List some of the aspects related to your product experience that set you apart from competitors. How does your offer differ from your customer’s current solution?
+## His/her wish came true, to:
+Clearly define the aspiration that your brand fulfills. What is your customer’s “wish come true”?
+
+Now that you have filled out each of these scenes, consider some of the implications of each of your answers. Why do they matter? How can we use them? Why are they important for brand building and conversion?
 
 # 1 Brand Story
 Digital channels are just tools to show (what should be) a meaningful brand story
