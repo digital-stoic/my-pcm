@@ -1,3 +1,5 @@
+# Obsidian
+https://blacksmithgu.github.io/obsidian-dataview/query/functions/
 # K3S admin
 ```bash
 # Connect to Kubernetes dashboard
