@@ -27,4 +27,5 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 # Build
 [[Organization & Management]]
 [[Code Snippets]]
+[[Geek]]
 
