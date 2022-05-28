@@ -17,6 +17,7 @@ From [Permaculture pour tous](https://permaculturepourtous.com/):
 [Triticum](https://www.triticum.fr/) (Micka's friend)
 [Association Française d'Agroforesterie](https://www.agroforesterie.fr/)
 [Permafforest](https://permafforest.fr/)
+[Ver de Terre Production](https://www.verdeterreprod.fr/)
 # Climbers
 [Les plantes grimpantes en permaculture : le guide complet](https://www.permaculturedesign.fr/plantes-grimpantes-permaculture/)
 # Entrepreneurship
