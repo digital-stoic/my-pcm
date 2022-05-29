@@ -9,8 +9,10 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[Lean Stuff]]
 [[Lean Branding]]
 [[Innovation Ideas]]
+[[Ideation]]
 # Learn
 [[My Anti-Library]]
+	[[Reading Lists]]
 [[Memorize]]
 [[Quotes]]
 [[Artists]]
