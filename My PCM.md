@@ -28,7 +28,25 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 [[Food]]
 [[Gaming]]
 # Build
+Tech
+	Software Architecture
+	DDD
+	Living Documentation
+	TypeScript
+	Elm
+	Windows
+	.Net
+	[[FSharp|F#]]
+	Azure
+	Functional Programming
+	DevOps
+Data Science
+NLP
+Data Visuzalization
 [[Organization & Management]]
-[[Code Snippets]]
 [[Geek]]
+Design
+E-Commerce
+Crypto
+[[Code Snippets]]
 
