@@ -30,7 +30,7 @@ See [The Art of Journaling: How To Start Journaling, Benefits of Journaling, and
 # Build
 Tech
 	Software Architecture
-	DDD
+	[[DDD]]
 	Living Documentation
 	TypeScript
 	Elm
